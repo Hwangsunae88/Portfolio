@@ -40,9 +40,13 @@
 
 ## Activity
 
-+ **평생진흥원 경영학과 전공**
++ **대성여자상업고등학교 정보처리과 (실업계)**
 + **kh정보교육원 [NCS] 클라우드 컴퓨팅 웹 융합 응용SW개발자양성 과정 수료**
    + 기간 : 21.12.24 ~ 22.08.02
    + ORACLE / SQL Programming
    + JAVA / Servlet / JSP, jdbc / Spring Framework, Mybatis, Ajax
    + HTML / CSS / JavaScript
+
+## Career
+* 
+
