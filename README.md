@@ -20,7 +20,7 @@
 
 #### Java
 
-> arr_mini_project 아르르 메인페이지 화면구현//https://github.com/Hwangsunae88/arr_mini_project
+> **arr_mini_project 아르르 메인페이지 화면구현**//https://github.com/Hwangsunae88/arr_mini_project
  + 기간 : 2022.03.16 ~ 2022.03.28
  + 명수 : 5명
  + 내용: 선정된 사이트 화면 설계&구현
