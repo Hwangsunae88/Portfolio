@@ -21,9 +21,14 @@
 #### Java
 
 > arr_mini_project 아르르메인페이지 화면구현//https://github.com/Hwangsunae88/arr_mini_project
-> 
+ + 기간 : 2022.03.16 ~ 2022.03.28
+ + 명수 : 5명
+ + 내용: 선정된 사이트 화면 설계&구현
+ + 선정된 사이트 : https://arrr.kr/index.html
+
+ 
 > TeachHaeDuo 과외중개 웹사이트 // https://github.com/Hwangsunae88/TeachHaeDuo
-> 
+ 
 > Fongdang 펀딩 웹사이트// https://github.com/Hwangsunae88/fongdang
 
 
