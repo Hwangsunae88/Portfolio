@@ -20,19 +20,19 @@
 
 #### Java
 
-> **arr_mini_project 아르르 메인페이지 화면구현**//https://github.com/Hwangsunae88/arr_mini_project
+> **arr_mini_project 아르르 메인페이지 화면구현** //https://github.com/Hwangsunae88/arr_mini_project
  + 기간 : 2022.03.16 ~ 2022.03.28
  + 명수 : 5명
  + 내용: 선정된 사이트 화면 설계&구현
  + 선정된 사이트 : https://arrr.kr/index.html
  
-> TeachHaeDuo 과외중개 웹사이트 // https://github.com/Hwangsunae88/TeachHaeDuo
+> **TeachHaeDuo 과외중개 웹사이트** // https://github.com/Hwangsunae88/TeachHaeDuo
  + 기간 : 2022.03.30~2022.05.16
  + 명수 : 5명
  + 내용: 선정된 주제관련 사이트 제작, 프로젝트 계획서,분석&설계, 구현&테스트,발표
  + 담당부분: 회원가입, 로그인, 아이디찾기,비밀번호 재설정, 회원 관리자페이지
  
-> Fongdang 펀딩 웹사이트// https://github.com/Hwangsunae88/fongdang
+> **Fongdang 펀딩 웹사이트** // https://github.com/Hwangsunae88/fongdang
  + 기간 : 2022.06.02~2022.08.02
  + 명수 : 5명
  + 내용: 선정된 주제관련 사이트 제작, 프로젝트 계획서,분석&설계, 구현&테스트,발표
