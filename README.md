@@ -22,9 +22,9 @@
 
 > arr_mini_project 아르르메인페이지 화면구현//https://github.com/Hwangsunae88/arr_mini_project
 > 
-> TeachHaeDuo 과외중개 웹사이트 // https://github.com/Hwangsunae88/TeachHaeDuo-1
+> TeachHaeDuo 과외중개 웹사이트 // https://github.com/Hwangsunae88/TeachHaeDuo
 > 
-> Fongdang 펀딩 웹사이트// https://github.com/Hwangsunae88/fongdang-1
+> Fongdang 펀딩 웹사이트// https://github.com/Hwangsunae88/fongdang
 
 
 ## Activity
