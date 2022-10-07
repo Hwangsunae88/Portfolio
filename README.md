@@ -42,6 +42,6 @@
 
 * 평생진흥원 경영학과 전공
 * kh정보교육원 [NCS] 클라우드 컴퓨팅 웹 융합 응용SW개발자양성 과정 수료(21.12.24 ~ 22.08.02)
- ● ORACLE / SQL Programming
- ● JAVA / Servlet / JSP, jdbc / Spring Framework, Mybatis, Ajax
- ● HTML / CSS / JavaScript
+ + ORACLE / SQL Programming
+ + JAVA / Servlet / JSP, jdbc / Spring Framework, Mybatis, Ajax
+ + HTML / CSS / JavaScript
