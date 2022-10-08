@@ -4,7 +4,7 @@
 증명사진
 
 
-<img src="https://user-images.githubusercontent.com/98323305/194714698-0bfef24b-ba47-43bc-8132-a8568e4879d4.jpg" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/98323305/194714698-0bfef24b-ba47-43bc-8132-a8568e4879d4.jpg" width="300" height="400"/>
 
 ## Introduce 
 * Name : 황선애
