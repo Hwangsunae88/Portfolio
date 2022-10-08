@@ -1,10 +1,9 @@
 # 긍정적인 마인드 소유자, 신입개발자 황선애입니다!  
 ```Hello, It's newbie here```
  
-증명사진
 
 
-<img src="https://user-images.githubusercontent.com/98323305/194714698-0bfef24b-ba47-43bc-8132-a8568e4879d4.jpg" width="200" height="300"/>
+<img src="https://user-images.githubusercontent.com/98323305/194714698-0bfef24b-ba47-43bc-8132-a8568e4879d4.jpg" width="190" height="250"/>
 
 ## Introduce 
 * Name : 황선애
