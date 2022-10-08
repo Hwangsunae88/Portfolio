@@ -2,6 +2,7 @@
 ```Hello, It's newbie here```
  
 증명사진
+![황선애 _증명사진](https://user-images.githubusercontent.com/98323305/194714698-0bfef24b-ba47-43bc-8132-a8568e4879d4.jpg)
  
 ## Introduce 
 * Name : 황선애
