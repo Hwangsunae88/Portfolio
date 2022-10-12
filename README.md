@@ -116,12 +116,12 @@ input, output이 뚜렷한 개발에 빠지게 되어 현재진행형 중입니�
       - SQL문 활용하여 DB연결 및 select 문 진행
       - Ajax 비동기 post방식으로 data값을 받아서 Controller 호출하여 DB값 동일 값 체크 return
       - JSTL 반복문(forEach)사용하여 회원정보목록 기능구현
-  + DB 설계
+  + DB 설계 :
   [ERD(pdf링크)](https://github.com/Hwangsunae88/TeachHaeDuo/blob/37a4092f1b829b90a0ae546321deb0a0f53656dc/ERD_%EA%B3%BC%EC%99%B8%ED%95%B4%EB%93%80%EC%98%A4.png)
 
   + 담당 역할 및기여도: 25%(팀 구성원 5명)
 
-  + 구현 기능 스토리보드<br>
+  + 구현 기능 스토리보드 : <br>
   [구현기능 스토리보드(pdf링크)](https://github.com/Hwangsunae88/Portfolio/blob/c94b287b68e05daa8b231a85ae15550c4ee63c9b/%EC%84%B8%EB%AF%B8_%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B3%B4%EB%93%9C_%ED%99%A9%EC%84%A0%EC%95%A0.pdf)
 
 
@@ -142,12 +142,12 @@ input, output이 뚜렷한 개발에 빠지게 되어 현재진행형 중입니�
     - 관리자 _ 펀딩 관리 부분 
     - [api] :  uploadcare API, Kakao postcode Map API, 사업자등록번호조회 API
 
-  + DB 설계
+  + DB 설계 :
   [ERD(pdf링크)](https://github.com/Hwangsunae88/fongdang/blob/0cfedacd47701ab88b4f16dcaf67fea0193abc83/fongdang_ERD.png)
 
   + 담당 역할 및기여도: 25%(팀 구성원 5명)
 
-  + 구현 기능 스토리보드<br>
+  + 구현 기능 스토리보드 : <br>
     [구현기능 스토리보드(pdf링크)](https://github.com/Hwangsunae88/Portfolio/blob/5a60225b90d5266d8bf357f68cb65484e95257df/%ED%8C%8C%EC%9D%B4%EB%84%90_%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B3%B4%EB%93%9C_%ED%99%A9%EC%84%A0%EC%95%A0.pdf)
 
 
