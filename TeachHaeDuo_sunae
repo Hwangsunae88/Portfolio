@@ -1,0 +1,51 @@
+# teachHaeDuo
+```
+ 주 제 : 학습중개사이트
+ 기획의도 : 우리나라의 교육열은 매우 치열하며 각자의 목표를 달성하기 위해 열심히 공부하는 학생들은 항상 존재하며, 
+            다수의 학생들이 본인의 부족한 과목을 더 발전시키기 위해 따로 개인교습을 받곤 한다. 
+            이는 곧 전문적인 선생님에게 가르침을 받고자 하는 열망으로 이어지며 나에게 맞는 선생님을 찾는 플랫폼이 필요하게 된다.  
+            또한 과외를 하고싶은 선생님 역시 편하게 과외학생을 만날 수 있다. 
+            그래서 우리는 선생님과 가르침을 원하는 학생을 중개해주는 전문적인 맞춤과목 과외중개 사이트를 개발하기로 하였다.
+```
+## 목차
+[1. 개발환경](#개발환경)  
+[2. 프로젝트 설계주안점](#프로젝트-설계주안점)  
+[3. 구현 기능](#구현-기능)  
+[4. 팀원 및 주 담당 기능](#팀원-및-주-담당-기능)<br>
+[5. ERD(pdf링크)](https://github.com/Hwangsunae88/TeachHaeDuo/blob/37a4092f1b829b90a0ae546321deb0a0f53656dc/ERD_%EA%B3%BC%EC%99%B8%ED%95%B4%EB%93%80%EC%98%A4.png)<br>
+[6. 기획보고서(pdf링크)](https://github.com/Hwangsunae88/TeachHaeDuo/blob/0bcbee6b530a90984cd6482429e0dfd47f846689/%EA%B3%BC%EC%99%B8%ED%95%B4%EB%93%80%EC%98%A4_%EA%B8%B0%ED%9A%8D%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)<br>
+[7. 기획산출물(pdf링크)](https://github.com/Hwangsunae88/TeachHaeDuo/blob/1db6bf0021ab8c8a1ec1306bc817ff6134c4e565/%EA%B3%BC%EC%99%B8%ED%95%B4%EB%93%80%EC%98%A4_%EA%B8%B0%ED%9A%8D%EC%82%B0%EC%B6%9C%EB%AC%BC.pdf)<br>
+[8. UI설계서(pdf링크)](https://github.com/Hwangsunae88/TeachHaeDuo/blob/6e621a251331e4e6d02cfdd6f2223e0374688967/%EA%B3%BC%EC%99%B8%ED%95%B4%EB%93%80%EC%98%A4_UI%EC%84%A4%EA%B3%84%EC%84%9C.pdf)<br>
+[9. 최종발표자료& 스토리보드(pdf링크)](https://github.com/Hwangsunae88/TeachHaeDuo/blob/7fd6de7416bfd1b3fcfbc666f5bc503149846427/%EA%B3%BC%EC%99%B8%ED%95%B4%EB%93%80%EC%98%A4_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)<br>
+
+## 개발환경
+  + Servlet 4.0
+  + JSP 3.1
+  + Tomcat 9.0
+  + Java 11.0.2
+  + Eclipse Version: 2020-09 (4.17.0)
+  + Github Desktop Version 2.9.14 (x64)
+  + SQL Developer 버전 21.2.1.204 //Oracle 
+  + HTML5
+  + CSS
+  
+<img src="https://user-images.githubusercontent.com/98323305/194766704-65c85da3-1b0c-4240-ab2d-ded399a4369e.jpg" width="400" height="250"/>
+
+## 구현 기능
+  + 회원가입(정규식 유효성 체크, 이메일 인증, 주소 API)
+  + 로그인
+  + 아이디 찾기, 비밀번호 찾기 , 비밀번호 재설정 
+  + 이용방법 (UI 화면 작성)
+  + 관리자 페이지(회원 정보 조회)
+  + 관리자 페이지 UI 화면 전체 작성  
+  
+## ERD
+[ERD(pdf링크)](https://github.com/Hwangsunae88/TeachHaeDuo/blob/37a4092f1b829b90a0ae546321deb0a0f53656dc/ERD_%EA%B3%BC%EC%99%B8%ED%95%B4%EB%93%80%EC%98%A4.png)
+
+
+## UI 설계서
+[UI설계서(pdf링크)](https://github.com/Hwangsunae88/TeachHaeDuo/blob/6e621a251331e4e6d02cfdd6f2223e0374688967/%EA%B3%BC%EC%99%B8%ED%95%B4%EB%93%80%EC%98%A4_UI%EC%84%A4%EA%B3%84%EC%84%9C.pdf)
+
+## 최종발표자료& 스토리보드
+[최종발표자료& 스토리보드(pdf링크)](https://github.com/Hwangsunae88/TeachHaeDuo/blob/7fd6de7416bfd1b3fcfbc666f5bc503149846427/%EA%B3%BC%EC%99%B8%ED%95%B4%EB%93%80%EC%98%A4_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
+  
