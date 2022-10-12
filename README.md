@@ -121,7 +121,7 @@ input, output이 뚜렷한 개발에 빠지게 되어 현재진행형 중입니�
 
   + 담당 역할 및기여도: 25%(팀 구성원 5명)
 
-  + 구현 기능 스토리보드 : <br>
+  + 구현 기능 스토리보드 : 
   [구현기능 스토리보드(pdf링크)](https://github.com/Hwangsunae88/Portfolio/blob/c94b287b68e05daa8b231a85ae15550c4ee63c9b/%EC%84%B8%EB%AF%B8_%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B3%B4%EB%93%9C_%ED%99%A9%EC%84%A0%EC%95%A0.pdf)
 
 
@@ -141,13 +141,20 @@ input, output이 뚜렷한 개발에 빠지게 되어 현재진행형 중입니�
     - 좋아요 기능
     - 관리자 _ 펀딩 관리 부분 
     - [api] :  uploadcare API, Kakao postcode Map API, 사업자등록번호조회 API
-
+      - SQL문 활용하여 DB연결 
+      - SQL문 활용하여 DB연결 및 select 문 진행
+      - SQL문 활용하여 DB에 데이터 inset, update, select문으로 상품등록 상품조회 
+      - jQuery on Function 함수를 이용하여 상품등록 유효성검사 실행
+      - jQuery focusout Function 함수 사용하여 DB데이터 중복데이터 확인
+      - 파일 업로드 기능 
+      - 자바스크립트로 카카오 주소찾기 APl 기능 사용 및 사업자등록번호 API 기능 사용
+      
   + DB 설계 :
   [ERD(pdf링크)](https://github.com/Hwangsunae88/fongdang/blob/0cfedacd47701ab88b4f16dcaf67fea0193abc83/fongdang_ERD.png)
 
   + 담당 역할 및기여도: 25%(팀 구성원 5명)
 
-  + 구현 기능 스토리보드 : <br>
+  + 구현 기능 스토리보드 :
     [구현기능 스토리보드(pdf링크)](https://github.com/Hwangsunae88/Portfolio/blob/5a60225b90d5266d8bf357f68cb65484e95257df/%ED%8C%8C%EC%9D%B4%EB%84%90_%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B3%B4%EB%93%9C_%ED%99%A9%EC%84%A0%EC%95%A0.pdf)
 
 
