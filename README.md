@@ -94,7 +94,7 @@ input, output이 뚜렷한 개발에 빠지게 되어 현재진행형 중입니�
 
 + 프로젝트 시 활용해본 대표 기술 : Servlet , jQuery, Ajax
 
-+ 구현 기능
++ 구현 기능 
   - 회원가입(정규식 유효성 체크, 이메일 인증, 주소 API)
   - 로그인
   - 아이디 찾기, 비밀번호 찾기 , 비밀번호 재설정
@@ -117,7 +117,7 @@ input, output이 뚜렷한 개발에 빠지게 되어 현재진행형 중입니�
   - JSTL 반복문(forEach)사용하여 회원정보목록 기능구현
   ''''
 + DB 설계
-
+[ERD(pdf링크)](https://github.com/Hwangsunae88/TeachHaeDuo/blob/37a4092f1b829b90a0ae546321deb0a0f53656dc/ERD_%EA%B3%BC%EC%99%B8%ED%95%B4%EB%93%80%EC%98%A4.png)
 
 + 담당 역할 및기여도: 25%(팀 구성원 5명)
 
