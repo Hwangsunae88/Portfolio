@@ -135,12 +135,12 @@ input, output이 뚜렷한 개발에 빠지게 되어 현재진행형 중입니�
   + 프로젝트 시 활용해본 대표 기술 :  API, jQuery, Ajax, jstl
 
   + 구현 기능 
-   - 메이커등록 페이지
-   - 펀딩상품등록페이지
-   - 옵션등록페이지
-   - 좋아요 기능
-   - 관리자 _ 펀딩 관리 부분 
-   - [api] :  uploadcare API, Kakao postcode Map API, 사업자등록번호조회 API
+    - 메이커등록 페이지
+    - 펀딩상품등록페이지
+    - 옵션등록페이지
+    - 좋아요 기능
+    - 관리자 _ 펀딩 관리 부분 
+    - [api] :  uploadcare API, Kakao postcode Map API, 사업자등록번호조회 API
 
   + DB 설계
   [ERD(pdf링크)](https://github.com/Hwangsunae88/fongdang/blob/0cfedacd47701ab88b4f16dcaf67fea0193abc83/fongdang_ERD.png)
