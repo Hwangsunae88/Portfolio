@@ -20,16 +20,6 @@ input, output이 뚜렷한 개발에 빠지게 되어 현재진행형 중입니�
 새로운 언어를 배우는데 거부감이 없었고 항상 긍정적인 마인드로 살아가려는 노력하는 개발자, 황선애입니다!
 ```
 
-## Activity
-
-+ **국가평생교육진흥원 /경영학과 졸업**
-+ **대성여자상업고등학교 / 정보처리과 (실업계)**
-
-+ **kh정보교육원 [NCS] 클라우드 컴퓨팅 웹 융합 응용SW개발자양성 과정 수료**
-   + 기간 : 21.12.24 ~ 22.08.02
-   + ORACLE / SQL Programming
-   + JAVA / Servlet / JSP, jdbc / Spring Framework, Mybatis, Ajax
-   + HTML / CSS / JavaScript
 
 ## Project 
 
@@ -55,6 +45,15 @@ input, output이 뚜렷한 개발에 빠지게 되어 현재진행형 중입니�
  + 담당부분: 메이커등록, 상품및 옵션등록, 펀딩상세페이지_좋아요, 관리자 매출조회
  + Github : // https://github.com/Hwangsunae88/fongdang
 
+## Activity
++ **대성여자상업고등학교 / 정보처리과 (실업계)**
++ **국가평생교육진흥원 / 경영학과 졸업**
+
++ **kh정보교육원 [NCS] 클라우드 컴퓨팅 웹 융합 응용SW개발자양성 과정 수료**
+   + 기간 : 21.12.24 ~ 22.08.02
+   + ORACLE / SQL Programming
+   + JAVA / Servlet / JSP, jdbc / Spring Framework, Mybatis, Ajax
+   + HTML / CSS / JavaScript
 
 
 ## Career
