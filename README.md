@@ -12,6 +12,7 @@
 * 국가평생교육진흥원 : 경영학 (졸업)
 * E-mail : sunea1337@gmail.com
 * Github : Hwangsunae88
+* 프로필 링크 페이지: https://hwangsunae88.github.io/mypage/
   
 
 ``` 
