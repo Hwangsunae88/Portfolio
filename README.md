@@ -60,9 +60,9 @@ input, output이 뚜렷한 개발에 빠지게 되어 현재진행형 중입니�
 
 + **kh정보교육원 [NCS] 클라우드 컴퓨팅 웹 융합 응용SW개발자양성 과정 수료**
    + 기간 : 21.12.24 ~ 22.08.02
-   + ORACLE / SQL Programming
-   + JAVA / Servlet / JSP, jdbc / Spring Framework, Mybatis, Ajax
-   + HTML / CSS / JavaScript
+   + DB:  Oracle 
+   + Languages & Platforms : JAVA / Spring Framework / HTML / CSS / JSP / JavaScript / JQuery
+   + Tools : Eclipse / Visual Studio Code / GitHub / Tomcat
 
 
 ## Career
@@ -72,7 +72,7 @@ input, output이 뚜렷한 개발에 빠지게 되어 현재진행형 중입니�
 
   + 주요업무: : JAVA 웹 개발 (기업 파견 웹개발 업무 진행 )
   + Languages & Platforms : JAVA / Spring Framework / HTML / CSS / JSP / JavaScript / JQuery
-  + DB:  Oracle / MySQL
+  + DB: Oracle / MySQL
   + Tools : Eclipse / Workbench / Visual Studio Code / GitHub / SVN / Tomcat
 
 > **숲엔터테인먼트** | 경영지원팀 과장 (2016. 12 ~ 2020. 04)
