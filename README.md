@@ -71,13 +71,9 @@ input, output이 뚜렷한 개발에 빠지게 되어 현재진행형 중입니�
 > **아이티키** |  대리 (2022. 11 ~ 현재)
 
   + 주요업무: : JAVA 웹 개발 (기업 파견 웹개발 업무 진행 )
-  + Languages & Platforms
-   + -JAVA / Spring Framework
-   +- HTML / CSS / JSP / JavaScript / JQuery
-  + DB
-   +- Oracle / MySQL
-  +  Tools
-    + -Eclipse / Workbench / Visual Studio Code / GitHub / SVN / Tomcat
+  + Languages & Platforms : JAVA / Spring Framework / HTML / CSS / JSP / JavaScript / JQuery
+  + DB:  Oracle / MySQL
+  + Tools : Eclipse / Workbench / Visual Studio Code / GitHub / SVN / Tomcat
 
 > **숲엔터테인먼트** | 경영지원팀 과장 (2016. 12 ~ 2020. 04)
 
