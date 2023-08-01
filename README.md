@@ -68,7 +68,7 @@ input, output이 뚜렷한 개발에 빠지게 되어 현재진행형 중입니�
 ## Career
 
 
-> **아이티키** |  대리 (2022. 11 ~ 현재)
+> **아이티키** |  대리 (2022. 11 ~ 2023.06)
 
   + 주요업무: : JAVA 웹 개발 (기업 파견 웹개발 업무 진행 )
   + Languages & Platforms : JAVA / Spring Framework / HTML / CSS / JSP / JavaScript / JQuery
