@@ -8,7 +8,7 @@
 ## Introduce 
 * Name : 황선애
 * Birth : 1988.07.26
-* Address : 경기도 부천시 경인로275 효성팰리스 10층 
+* Address : 경기도 부천시 경인로275  
 * 국가평생교육진흥원 : 경영학 (졸업)
 * E-mail : sunea1337@gmail.com
 * Github : Hwangsunae88
@@ -68,12 +68,13 @@ input, output이 뚜렷한 개발에 빠지게 되어 현재진행형 중입니�
 ## Career
 
 
-> **아이티키** |  대리 (2022. 11 ~ 2023.06)
+> **아이티키** |  대리 (2022. 10 ~ 2023.06)
 
-  + 주요업무: : JAVA 웹 개발 (기업 파견 웹개발 업무 진행 )
-  + Languages & Platforms : JAVA / Spring Framework / HTML / CSS / JSP / JavaScript / JQuery
+  + 주요업무: : JAVA 웹 개발 
+  + Languages & Platforms : JAVA / HTML / CSS / JSP / JavaScript / JQuery/ Spring Framework/ Spring Boot
   + DB: Oracle / MySQL
   + Tools : Eclipse / Workbench / Visual Studio Code / GitHub / SVN / Tomcat
+  + 기타 : soft manager
 
 > **숲엔터테인먼트** | 경영지원팀 과장 (2016. 12 ~ 2020. 04)
 
@@ -105,6 +106,21 @@ input, output이 뚜렷한 개발에 빠지게 되어 현재진행형 중입니�
 ## Project (프로젝트 담당부분 상세한 내용)
 
 #### Java
+> **현대제철 프로세스혁신 3단계 시스템구축** 
+  + 연계/소속회사 : 현대제철
+  + 수행 기간 : 22.10 ~ 22.12 (약 3/개월 소요)
+  + 주요 역할 : 화면 수정 & 표준화 작업
+  + 업무 성과 : 현대 제철 내부 페이지 IE5 -> IE11로 변경하면서 생기는 html5 스크립트 오류 개선 및 JS 표준화
+  + 개발 환경 : Windows, Orange, SoftManager
+
+> **알약 정보 서비스, 성범죄 알림 서비스 웹개발**
+  + 연계/소속회사: 아이티키
+  + 수행기간 : 23.03 ~23.06(약 4/개월 소요)
+  + 주요역할 : 웹사이트 개발
+  + 업무성과 : 문의 사용자, 관리자 파트 , 결제 파트 진행
+  + Languages : JAVA
+  + 개발환경 : Windows, GitHub , Spring Boot, JQuery,JavaScript
+
 > **TeachHaeDuo 과외중개 웹사이트** 
   + 수행기간: 2022.03.30~2022.05.16
   + 개발목표: 맞춤과목 과외중개 사이트 개발
