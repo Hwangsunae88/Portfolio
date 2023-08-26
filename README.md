@@ -82,13 +82,21 @@ input, output이 뚜렷한 개발에 빠지게 되어 현재진행형 중입니�
 ## Career
 
 
-> **아이티키** |  대리 (2022. 10 ~ 2023.06)
+> **아이티키** |  주임 (2022. 10 ~ 2023.06)
 
   + 주요업무: : JAVA 웹 개발 
   + Languages & Platforms : JAVA / HTML / CSS / JSP / JavaScript / JQuery/ Spring Framework/ Spring Boot
   + DB: Oracle / MySQL
   + Tools : Eclipse / Workbench / Visual Studio Code / GitHub / SVN / Tomcat
   + 기타 : soft manager
+
+> **뮤즈그룹** | 경영지원팀 팀장 (2020. 08 ~ 2021. 09)
+
+  + 주요업무: 경영지원팀 총괄 업무(재무 회계, 부가세, 결산, 인사 업무 등)
+  + 회계 & 세무 : 자체 기장, 매출 발행 및 각종신고 업무 및 결산 업무 등
+  + 인사 & 자금 : 자금 입출금, 인사 및 원천세 신고 업무 등
+  + 총무 및 지원금 : 정관, 이사회 의사록 관리 및 정부 지원금 관련 업무 등
+  + 정산 : 광고 및 쇼핑몰 매월 매출 정산    
 
 > **숲엔터테인먼트** | 경영지원팀 과장 (2016. 12 ~ 2020. 04)
 
