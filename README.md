@@ -39,13 +39,13 @@ input, output이 뚜렷한 개발에 빠지게 되어 현재진행형 중입니�
   + Languages : JAVA
   + 개발환경 : Windows, GitHub , Spring Boot, JQuery,JavaScript
 
-> **arr_mini_project 아르르 메인페이지 화면구현** 
- + 기간 : 2022.03.16 ~ 2022.03.28
+> **Fongdang 펀딩 웹사이트** 
+ + 기간 : 2022.06.02~2022.08.02
  + 명수 : 5명
- + 내용: 선정된 사이트 화면 설계&구현
- + 선정된 사이트 : https://arrr.kr/index.html
- + Github: //https://github.com/Hwangsunae88/arr_mini_project
- 
+ + 내용: 펀딩 사이트 제작, 프로젝트 계획서,분석&설계, 구현&테스트,발표
+ + 담당부분: 메이커등록, 상품및 옵션등록, 펀딩상세페이지_좋아요, 관리자 매출조회
+ + Github : // https://github.com/Hwangsunae88/fongdang
+
 > **TeachHaeDuo 과외중개 웹사이트** 
  + 기간 : 2022.03.30~2022.05.16
  + 명수 : 5명
@@ -53,12 +53,12 @@ input, output이 뚜렷한 개발에 빠지게 되어 현재진행형 중입니�
  + 담당부분: 회원가입, 로그인, 아이디찾기,비밀번호 재설정, 회원 관리자페이지
  + Github : // https://github.com/Hwangsunae88/TeachHaeDuo
  
-> **Fongdang 펀딩 웹사이트** 
- + 기간 : 2022.06.02~2022.08.02
+ > **arr_mini_project 아르르 메인페이지 화면구현** 
+ + 기간 : 2022.03.16 ~ 2022.03.28
  + 명수 : 5명
- + 내용: 펀딩 사이트 제작, 프로젝트 계획서,분석&설계, 구현&테스트,발표
- + 담당부분: 메이커등록, 상품및 옵션등록, 펀딩상세페이지_좋아요, 관리자 매출조회
- + Github : // https://github.com/Hwangsunae88/fongdang
+ + 내용: 선정된 사이트 화면 설계&구현
+ + 선정된 사이트 : https://arrr.kr/index.html
+ + Github: //https://github.com/Hwangsunae88/arr_mini_project
 
 
 #### HTML & CSS & 웹페이지
