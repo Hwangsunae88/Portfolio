@@ -8,8 +8,8 @@
 ## Introduce 
 * Name : 황선애
 * Birth : 1988.07.26
-* Address : 경기도 부천시 경인로275  
-* 학력 : 국가평생교육진흥원 / 경영학 (졸업)
+* Address : 인천시 계양구 귤현동 533 
+* 학력 : 학점은행제 / 경영학 (졸업)
 * E-mail : sunea1337@gmail.com
 * Github : Hwangsunae88
 * 프로필 링크 페이지: https://hwangsunae88.github.io/mypage/
